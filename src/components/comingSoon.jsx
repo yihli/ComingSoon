@@ -12,7 +12,7 @@ const ComingSoon = () => {
     <div className="flex flex-col h-screen w-screen bg-gradient-to-b from-gray-400 to-gray-900 justify-center items-center p-4 font-[Saira]">
       <div className="flex flex-col items-center text-center mx-auto w-full">
         <h1 className="text-white text-[200px] font-bold mb-8 font-serif text-center">
-          Coming Soon
+          Coming So
         </h1>
         <p className="text-gray-300 text-[40px] mb-12 text-center">
           We&apos;re working hard to bring you something amazing. Stay tuned!
